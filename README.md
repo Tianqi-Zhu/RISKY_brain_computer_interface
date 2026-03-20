@@ -7,8 +7,12 @@ Whichever described in those links is certain technically possible, but whether 
 
 ## 📄 Research Papers
 - [Subsecond multichannel magnetic control of select neural circuits in freely moving flies](https://www.nature.com/articles/s41563-022-01281-7)
+- [Self-rectifying magnetoelectric metamaterials for remote neural stimulation and motor function restoration](https://www.nature.com/articles/s41563-023-01680-4)
+- [Electromagnetic wireless remote control of mammalian transgene expression](https://www.nature.com/articles/s41565-025-01929-w)
+- [In vivo magnetogenetics for cell-type-specific targeting and modulation of brain circuits](https://www.nature.com/articles/s41565-024-01694-2)
+- [Programming mammalian cell behaviors by physical cues](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(24)00208-7)
+- [Advances in magnetic nanoparticles for molecular medicine](https://pubs.rsc.org/en/content/articlehtml/2025/cc/d4cc05167j)
 - [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
-
 
 ## 🎥 YouTube Videos
 - [Magnetogenetics - Dr. Jacob Robinson, Rice U.](https://youtu.be/711kDIyTmE8?si=3DwQd1rKoeFJKZQo)
