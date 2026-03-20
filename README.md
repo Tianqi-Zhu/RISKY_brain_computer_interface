@@ -38,5 +38,10 @@ By using minimally invasive BCI to directly send auditory signal to someone's au
 ## 🎥 YouTube Videos
 - [Social Engineer: YOU are Easier to Hack than your Computer](https://youtu.be/xEdZwLRJttQ?si=D6b5Dl2vN3k0VGLw)
 
+# Brain Decoding
+[List of papers on decoding brain signals.](BrainDecoding.md)
+The technology enables translating between EEG/ECoG (ie. electromagnetic field brain produces), or fMRI(changes in blood oxygenation levels in brain) data to human readable modality, like text or images. Thus, whoever has access to instant brain activity data would know what the specific person sees, hears, or imagines.
+
+
 # Neural Data Ethics
 ##
