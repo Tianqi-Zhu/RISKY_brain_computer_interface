@@ -6,8 +6,9 @@ Such technology may provide potential solution to certain people in need, but la
 Whichever described in those links is certain technically possible, but whether those would or should become an essential part of life in the future could still be highly debatable.
 
 ## 📄 Research Papers
-- [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
 - [Subsecond multichannel magnetic control of select neural circuits in freely moving flies](https://www.nature.com/articles/s41563-022-01281-7)
+- [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
+
 
 ## 🎥 YouTube Videos
 - [Magnetogenetics - Dr. Jacob Robinson, Rice U.](https://youtu.be/711kDIyTmE8?si=3DwQd1rKoeFJKZQo)
