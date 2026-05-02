@@ -16,6 +16,7 @@ Whichever described in those links is certain technically possible, but whether 
 - [Bidirectional regulation of motor circuits using magnetogenetic gene therapy](https://www.science.org/doi/10.1126/sciadv.adp9150)
 - [Genetically encoded sensors illuminate in vivo detection for neurotransmission: Development, application, and optimization strategies](https://www.ibroneuroreports.org/article/S2667-2421(25)00037-5/fulltext)
 - [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
+- [Therapeutic cell engineering: designing programmable synthetic genetic circuits in mammalian cells](https://academic.oup.com/proteincell/article/13/7/476/6747017)
 
 ## 🎥 YouTube Videos
 - [Magnetogenetics - Dr. Jacob Robinson, Rice U.](https://youtu.be/711kDIyTmE8?si=3DwQd1rKoeFJKZQo)
