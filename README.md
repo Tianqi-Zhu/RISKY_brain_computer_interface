@@ -13,7 +13,7 @@ Whichever described in those links is certain technically possible, but whether 
 - [Modulating cell signalling in vivo with magnetic nanotransducers](https://www.nature.com/articles/s43586-022-00170-2)
 - [Programming mammalian cell behaviors by physical cues](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(24)00208-7)
 - [Advances in magnetic nanoparticles for molecular medicine](https://pubs.rsc.org/en/content/articlehtml/2025/cc/d4cc05167j)
-- [Genetically encoded sensors illuminate in vivo detection for neurotransmission: Development, application, and optimization strategies]([www.ibroneuroreports.org/action/showPdf?pii=S2667-2421(25)00037-5](https://www.ibroneuroreports.org/article/S2667-2421(25)00037-5/fulltext)
+- [Genetically encoded sensors illuminate in vivo detection for neurotransmission: Development, application, and optimization strategies](www.ibroneuroreports.org/action/showPdf?pii=S2667-2421(25)00037-5](https://www.ibroneuroreports.org/article/S2667-2421(25)00037-5/fulltext)
 - [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
 
 ## 🎥 YouTube Videos
