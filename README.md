@@ -14,6 +14,7 @@ Whichever described in those links is certain technically possible, but whether 
 - [Programming mammalian cell behaviors by physical cues](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(24)00208-7)
 - [Advances in magnetic nanoparticles for molecular medicine](https://pubs.rsc.org/en/content/articlehtml/2025/cc/d4cc05167j)
 - [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
+- [Genetically encoded sensors illuminate in vivo detection for neurotransmission: Development, application, and optimization strategies](www.ibroneuroreports.org/action/showPdf?pii=S2667-2421(25)00037-5)
 
 ## 🎥 YouTube Videos
 - [Magnetogenetics - Dr. Jacob Robinson, Rice U.](https://youtu.be/711kDIyTmE8?si=3DwQd1rKoeFJKZQo)
