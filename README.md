@@ -13,6 +13,7 @@ Whichever described in those links is certain technically possible, but whether 
 - [Modulating cell signalling in vivo with magnetic nanotransducers](https://www.nature.com/articles/s43586-022-00170-2)
 - [Programming mammalian cell behaviors by physical cues](https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(24)00208-7)
 - [Advances in magnetic nanoparticles for molecular medicine](https://pubs.rsc.org/en/content/articlehtml/2025/cc/d4cc05167j)
+- [Bidirectional regulation of motor circuits using magnetogenetic gene therapy](https://www.science.org/doi/10.1126/sciadv.adp9150)
 - [Genetically encoded sensors illuminate in vivo detection for neurotransmission: Development, application, and optimization strategies](https://www.ibroneuroreports.org/article/S2667-2421(25)00037-5/fulltext)
 - [Nanobots: Uploading the human brain](https://ui.adsabs.harvard.edu/abs/2022AIPC.2518e0002S/abstract)
 
@@ -31,6 +32,10 @@ Whichever described in those links is certain technically possible, but whether 
 ## 🌐 Online Articles
 - [Feds fund creation of headset for high-speed brain link](https://news.rice.edu/news/2019/feds-fund-creation-headset-high-speed-brain-link)
 - [DARPA Is Funding Nanoparticles That Permeate Brain to Read Neural Signals](https://futurism.com/neoscope/darpa-nanoparticles-brain-neural-signals)
+
+## Link to Related Research Project
+- [N3: Next-Generation Nonsurgical Neurotechnology](https://www.darpa.mil/research/programs/next-generation-nonsurgical-neurotechnology)
+- [Molecular Programming Project](http://molecular-programming.org/)
 
 
 # Social Engineering
